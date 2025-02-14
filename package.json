@@ -1,7 +1,0 @@
-{
-    "type":"module",
-    "scripts":{
-        "test":"npx jasmine",
-        "start":"npx http-server"
-    }
-}
